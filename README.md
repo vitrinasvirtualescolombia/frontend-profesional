@@ -1,3 +1,5 @@
+Autor: @vvcolombia
+
 frontend-profesional
 ====================
 
